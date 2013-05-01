@@ -6,3 +6,6 @@ echo $query;
 mysql_close($connection);
 
 ?>
+
+
+http://net.tutsplus.com/tutorials/an-introduction-to-stored-procedures/
